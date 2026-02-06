@@ -1,0 +1,1 @@
+The application package only contain use cases, orchestration logic, and  application-specific DTOs.
